@@ -1,6 +1,6 @@
 <h1>ANALISIS CON PY EN GOOGLE COLAB</h1>  
-<h4>Librerias: matplotlib pyplot</h4>
-<h4>Librerias: matplotlib pyplot</h4>
+<h4>Librerias: Matplotlib pyplot</h4>
+<h4>Librerias: Pandas</h4>
 <p>En el siguiente archivo encontras el analisis de 
  cuatro tindas, en la cual se visualiza cual esta dejando 
  mejor rentabilidad, como analisista de datos se recomienda mejorar el 
